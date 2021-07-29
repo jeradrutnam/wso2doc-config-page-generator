@@ -6,17 +6,17 @@
   "author": "WSO2",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/jeradrutnam/wso2doc-config-page-generator"
   },
   "license": "Apache License 2.0",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/jeradrutnam/wso2doc-config-page-generator/issues"
   },
   "dependencies": {},
   "devDependencies": {
-    "fs-extra": "^7.0.1",
-    "nunjucks": "^3.2.0",
-    "rimraf": "^2.6.3"
+    "fs-extra": "^10.0.0",
+    "nunjucks": "^3.2.3",
+    "rimraf": "^3.0.2"
   },
   "scripts": {
     "build": "node scripts/build.js"
